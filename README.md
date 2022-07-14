@@ -1,4 +1,4 @@
-# GERElections
+# Gelections
 > Summary description here.
 
 
